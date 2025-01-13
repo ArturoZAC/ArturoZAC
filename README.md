@@ -1,13 +1,18 @@
-<h1 align="center"><b>Hi , I'm Arturo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
-<br/>
+<h1 align="center"><b>Hi , <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> I'm Arturo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
+
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 
 ### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;I am truly passionate about continuous learning and actively developing innovative software solutions in the world of technology.\
-🎓 &nbsp;I am currently pursuing a Software Engineering degree, focusing on honing my skills and expanding my knowledge in web development.\
-🌱 &nbsp;My main interests include deeply exploring modern frameworks and learning best practices to create scalable applications.\
-✍️ &nbsp;In my free time, I genuinely enjoy working on exciting creative projects and constantly exploring new technologies and tools.\
-💬 &nbsp;I am always open to collaborating on meaningful and exciting projects or having thoughtful conversations about web development.\
-✉️ &nbsp;Feel free to kindly reach out to me anytime at arturoyz2105@gmail.com. I’ll gladly and promptly respond as soon as I can!
+💡 &nbsp;I am passionate about learning and developing innovative software solutions in technology.\
+🎓 &nbsp;I am currently pursuing a Software Engineering degree, honing my skills in web development.\
+🌱 &nbsp;My main interests include exploring modern frameworks and learning best practices for scalable applications.\
+✍️ &nbsp;In my free time, I enjoy working on creative projects and exploring new technologies.\
+💬 &nbsp;I am open to collaborating on meaningful projects or having conversations about web development.\
+✉️ &nbsp;Feel free to reach out to me at arturoyz2105@gmail.com. I’ll respond as soon as I can!
+
+<br/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -35,6 +40,8 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
+<br/>
+
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center">
   <a href="https://github.com/ArturoZAC">
@@ -42,6 +49,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturoZAC&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ArturoZAC"/>
   </a>
 </div>
+
+<br/>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
