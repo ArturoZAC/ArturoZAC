@@ -1,4 +1,5 @@
 <h1 align="center"><b>Hi , I'm Arturo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
+<br/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I am truly passionate about continuous learning and actively developing innovative software solutions in the world of technology.\
