@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> I'm Arturo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
+<h1 align="center"><b>Hi , <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> I'm Arturo(4Z4C)</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
 
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
