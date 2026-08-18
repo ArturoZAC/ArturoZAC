@@ -45,8 +45,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center">
   <a href="https://github.com/ArturoZAC">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArturoZAC&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ArturoZAC"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturoZAC&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ArturoZAC"/>
+    <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs?username=ArturoZAC&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ArturoZAC"/>
+    <img height="180em" src="https://github-readme-stats.shion.dev/api?username=ArturoZAC&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ArturoZAC"/>
   </a>
 </div>
 
